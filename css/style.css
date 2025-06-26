@@ -1,0 +1,15 @@
+
+.iteam{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+#iteam1{
+    background-color: aquamarine;
+}
+#iteam2{
+    background-color: rgb(62, 43, 79);
+}
+#iteam3{
+    background-color: rgb(40, 11, 67);
+}
