@@ -1,4 +1,11 @@
+.contener{
+    width: 70%;
+    height: 700px;
+    justify-content: space-around;
+    align-items: end;
+    display: flex;
 
+}
 .iteam{
     width: 150px;
     height: 150px;
